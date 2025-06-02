@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style">
+        <item name="neumorph_cornerSize">5dp</item>
+    </style>
+    <style name="pointer">
+        <item name="neumorph_cornerSizeBottomLeft">100dp</item>
+        <item name="neumorph_cornerSizeTopLeft">100dp</item>
+        <item name="neumorph_cornerSizeBottomRight">10dp</item>
+        <item name="neumorph_cornerSizeTopRight">10dp</item>
+    </style>
+</resources>

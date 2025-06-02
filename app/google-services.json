@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302833207641",
+    "firebase_url": "https://tn-bus-tracker-default-rtdb.firebaseio.com",
+    "project_id": "tn-bus-tracker",
+    "storage_bucket": "tn-bus-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302833207641:android:037c5e90be682601e56448",
+        "android_client_info": {
+          "package_name": "com.example.tamilnadubustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302833207641-0g5luihulnep9rbga4u2am11vpird5ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPBYAaWh9ZDjovvR_afcZ0rCGh3XIXBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302833207641-0g5luihulnep9rbga4u2am11vpird5ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

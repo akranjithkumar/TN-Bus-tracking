@@ -68,7 +68,7 @@ To set up and run this project:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/akranjithkumar/TN-Bus-tracking.git
     cd TamilNaduBusTracker
     ```
 2.  **Open in Android Studio**:
